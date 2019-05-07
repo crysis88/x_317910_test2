@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-05-07 10:37:19">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Test2">70929645db113300c9fe7b3868961935</application>
+<application_name>Test2</application_name>
+<application_scope>x_317910_test2</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>4d921649db113300c9fe7b38689619ec</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-05-07 10:37:17</sys_created_on>
+<sys_id>9dbfb685db913300c9fe7b38689619fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-05-07 10:37:17</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Test2">70929645db113300c9fe7b3868961935</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_70929645db113300c9fe7b3868961935</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu/><name>Test2</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_317910_test2</scope><scoped_administration>false</scoped_administration><short_description/><source>x_317910_test2</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-05-07 07:20:07</sys_created_on><sys_id>70929645db113300c9fe7b3868961935</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-05-07 07:20:07</sys_updated_on><template/><trackable>true</trackable><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>68848114</payload_hash>
+<remote_update_set display_value="Default">9dbfb685db913300c9fe7b38689619fe</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-05-07 10:37:17</sys_created_on>
+<sys_id>51bfb685db913300c9fe7b38689619ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16a9129f64a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-05-07 10:37:17</sys_updated_on>
+<table/>
+<target_name>Test2</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>05921649a811330077cc8a741c8de1ee</update_guid>
+<update_guid_history>05921649a811330077cc8a741c8de1ee:68848114</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
